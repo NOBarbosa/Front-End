@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.twitter {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: auto;
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 400px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.twitter-2 {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: auto;
+    
+}
+.titulo {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    padding: auto;
+    font-size: 31px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.login {
+    padding: 16px 20px;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    font-size: 17px;
+    font-weight: normal;
+    color: rgb(91, 112, 131);
+}
+.login a {
+    color: rgb(91, 112, 131);
+}
+.senha {
+    padding: 16px 20px;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    font-size: 17px;
+   
+}
+.senha a {
+    color: rgb(91, 112, 131);
+}
+.entrar {
+    color:rgb(255, 255, 255);
+    padding-left: 46px; 
+    padding-top: 12px;
+    padding-right: 46px;
+    padding-bottom: 12px;
+    border-radius: 50px;
+    margin: 0px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgba(29, 161, 242, 0.5);
+}
+.entrar a {
+    color: #FFF;
+}
+.inscreva {
+    margin-bottom: auto;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.inscreva span {
+    color: rgb(27, 149, 224);
+}
+.img {
+    margin-bottom: 0;
+}
+
